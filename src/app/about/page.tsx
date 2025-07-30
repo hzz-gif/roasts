@@ -45,14 +45,14 @@ export default function AboutPage() {
               <h3 className="text-xl font-semibold text-gray-900 mb-4">📚 Diverse Collection</h3>
               <p className="text-gray-600">
                 We cover celebrity roasts, comedy roasts, social media burns, and trending entertainment across multiple platforms.
-                Our comprehensive collection offers something for everyone, whether you're a casual comedy fan or a roast connoisseur.
+                Our comprehensive collection offers something for everyone, whether you&apos;re a casual comedy fan or a roast connoisseur.
               </p>
             </div>
 
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">🎯 Expert Analysis</h3>
               <p className="text-gray-600">
-                We don't just share roasts - we analyze what makes them great. Each piece includes detailed breakdowns of comedic techniques,
+                We don&apos;t just share roasts - we analyze what makes them great. Each piece includes detailed breakdowns of comedic techniques,
                 timing analysis, and insights into what makes the perfect burn.
               </p>
             </div>
@@ -101,8 +101,8 @@ export default function AboutPage() {
           <div className="text-center bg-amber-50 rounded-lg p-8">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Join Our Community</h2>
             <p className="text-gray-600 mb-6">
-              If you love comedy and great roasts, join our community! Whether you're sharing your favorite burns, asking questions,
-              or seeking the latest entertainment content, we welcome your participation. Let's explore the endless possibilities of humor together!
+              If you love comedy and great roasts, join our community! Whether you&apos;re sharing your favorite burns, asking questions,
+              or seeking the latest entertainment content, we welcome your participation. Let&apos;s explore the endless possibilities of humor together!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link

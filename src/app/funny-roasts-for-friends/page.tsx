@@ -61,95 +61,95 @@ export default function FunnyRoastsForFriendsPage() {
             <li>Playful rather than mean-spirited</li>
             <li>Based on quirks everyone already knows about</li>
             <li>Delivered with love and a smile</li>
-            <li>Something you'd be okay receiving back</li>
+            <li>Something you&apos;d be okay receiving back</li>
           </ul>
 
           <h2>Hilarious Friend Roasts</h2>
           
-          <h3>For the Friend Who's Always Late</h3>
+          <h3>For the Friend Who&apos;s Always Late</h3>
           <div className="space-y-4 mb-8">
-            <p className="text-gray-800 leading-relaxed">1. "You're not late, you're just operating on your own time zone... which is apparently 3 hours behind everyone else's."</p>
-            <p className="text-gray-800 leading-relaxed">2. "I invited you to my wedding 6 months early because I know you'll still show up during the reception."</p>
-            <p className="text-gray-800 leading-relaxed">3. "You're so consistently late, I'm starting to think punctuality is your kryptonite."</p>
-            <p className="text-gray-800 leading-relaxed">4. "You're not fashionably late, you're disastrously delayed."</p>
-            <p className="text-gray-800 leading-relaxed">5. "If being late was an Olympic sport, you'd show up after the closing ceremony."</p>
+            <p className="text-gray-800 leading-relaxed">1. &quot;You&apos;re not late, you&apos;re just operating on your own time zone... which is apparently 3 hours behind everyone else&apos;s.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">2. &quot;I invited you to my wedding 6 months early because I know you&apos;ll still show up during the reception.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">3. &quot;You&apos;re so consistently late, I&apos;m starting to think punctuality is your kryptonite.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">4. &quot;You&apos;re not fashionably late, you&apos;re disastrously delayed.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">5. &quot;If being late was an Olympic sport, you&apos;d show up after the closing ceremony.&quot;</p>
           </div>
 
           <h3>For the Overly Dramatic Friend</h3>
           <div className="space-y-4 mb-8">
-            <p className="text-gray-800 leading-relaxed">6. "You don't just tell stories, you perform one-person Broadway shows."</p>
-            <p className="text-gray-800 leading-relaxed">7. "If life was a movie, you'd be the director, producer, and star of your own drama."</p>
-            <p className="text-gray-800 leading-relaxed">8. "You could stub your toe and somehow make it sound like a Shakespearean tragedy."</p>
-            <p className="text-gray-800 leading-relaxed">9. "You don't have problems, you have 'epic sagas of personal struggle.'"</p>
-            <p className="text-gray-800 leading-relaxed">10. "Your life has more plot twists than a soap opera."</p>
+            <p className="text-gray-800 leading-relaxed">6. &quot;You don&apos;t just tell stories, you perform one-person Broadway shows.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">7. &quot;If life was a movie, you&apos;d be the director, producer, and star of your own drama.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">8. &quot;You could stub your toe and somehow make it sound like a Shakespearean tragedy.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">9. &quot;You don&apos;t have problems, you have &apos;epic sagas of personal struggle.&apos;&quot;</p>
+            <p className="text-gray-800 leading-relaxed">10. &quot;Your life has more plot twists than a soap opera.&quot;</p>
           </div>
 
-          <h3>For the Friend Who Can't Cook</h3>
+          <h3>For the Friend Who Can&apos;t Cook</h3>
           <div className="space-y-4 mb-8">
-            <p className="text-gray-800 leading-relaxed">11. "Your cooking is so bad, Gordon Ramsay would just cry instead of yelling."</p>
-            <p className="text-gray-800 leading-relaxed">12. "You're the reason takeout apps were invented."</p>
-            <p className="text-gray-800 leading-relaxed">13. "I've seen you burn water. I didn't even know that was possible."</p>
-            <p className="text-gray-800 leading-relaxed">14. "Your smoke detector doubles as a dinner timer."</p>
-            <p className="text-gray-800 leading-relaxed">15. "You could burn a salad if you tried hard enough."</p>
+            <p className="text-gray-800 leading-relaxed">11. &quot;Your cooking is so bad, Gordon Ramsay would just cry instead of yelling.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">12. &quot;You&apos;re the reason takeout apps were invented.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">13. &quot;I&apos;ve seen you burn water. I didn&apos;t even know that was possible.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">14. &quot;Your smoke detector doubles as a dinner timer.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">15. &quot;You could burn a salad if you tried hard enough.&quot;</p>
           </div>
 
           <h3>For the Technology-Challenged Friend</h3>
           <div className="space-y-4 mb-8">
-            <p className="text-gray-800 leading-relaxed">16. "You still ask me to help you 'download more internet.'"</p>
-            <p className="text-gray-800 leading-relaxed">17. "You're so bad with technology, your phone probably has trust issues."</p>
-            <p className="text-gray-800 leading-relaxed">18. "You treat your smartphone like it's a rotary phone from the 1950s."</p>
-            <p className="text-gray-800 leading-relaxed">19. "You're the reason tech support drinks heavily."</p>
-            <p className="text-gray-800 leading-relaxed">20. "You make my grandparents look like tech geniuses."</p>
+            <p className="text-gray-800 leading-relaxed">16. &quot;You still ask me to help you &apos;download more internet.&apos;&quot;</p>
+            <p className="text-gray-800 leading-relaxed">17. &quot;You&apos;re so bad with technology, your phone probably has trust issues.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">18. &quot;You treat your smartphone like it&apos;s a rotary phone from the 1950s.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">19. &quot;You&apos;re the reason tech support drinks heavily.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">20. &quot;You make my grandparents look like tech geniuses.&quot;</p>
           </div>
 
-          <h3>For the Friend Who's Always Cold</h3>
+          <h3>For the Friend Who&apos;s Always Cold</h3>
           <div className="space-y-4 mb-8">
-            <p className="text-gray-800 leading-relaxed">21. "You wear a sweater in summer and wonder why everyone else is hot."</p>
-            <p className="text-gray-800 leading-relaxed">22. "You're like a human popsicle - always frozen and slightly blue."</p>
-            <p className="text-gray-800 leading-relaxed">23. "I'm pretty sure you have antifreeze instead of blood."</p>
-            <p className="text-gray-800 leading-relaxed">24. "You could get frostbite in the Sahara Desert."</p>
-            <p className="text-gray-800 leading-relaxed">25. "Your thermostat setting is 'Arctic Tundra.'"</p>
+            <p className="text-gray-800 leading-relaxed">21. &quot;You wear a sweater in summer and wonder why everyone else is hot.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">22. &quot;You&apos;re like a human popsicle - always frozen and slightly blue.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">23. &quot;I&apos;m pretty sure you have antifreeze instead of blood.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">24. &quot;You could get frostbite in the Sahara Desert.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">25. &quot;Your thermostat setting is &apos;Arctic Tundra.&apos;&quot;</p>
           </div>
 
           <h3>For the Overly Organized Friend</h3>
           <div className="space-y-4 mb-8">
-            <p className="text-gray-800 leading-relaxed">26. "Your sock drawer is more organized than my entire life."</p>
-            <p className="text-gray-800 leading-relaxed">27. "You probably have a color-coded spreadsheet for your color-coded spreadsheets."</p>
-            <p className="text-gray-800 leading-relaxed">28. "You're so organized, you make Marie Kondo look messy."</p>
-            <p className="text-gray-800 leading-relaxed">29. "You alphabetize your spice rack and your friends."</p>
-            <p className="text-gray-800 leading-relaxed">30. "Your idea of chaos is having one pen out of place."</p>
+            <p className="text-gray-800 leading-relaxed">26. &quot;Your sock drawer is more organized than my entire life.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">27. &quot;You probably have a color-coded spreadsheet for your color-coded spreadsheets.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">28. &quot;You&apos;re so organized, you make Marie Kondo look messy.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">29. &quot;You alphabetize your spice rack and your friends.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">30. &quot;Your idea of chaos is having one pen out of place.&quot;</p>
           </div>
 
-          <h3>For the Friend Who's Always Hungry</h3>
+          <h3>For the Friend Who&apos;s Always Hungry</h3>
           <div className="space-y-4 mb-8">
-            <p className="text-gray-800 leading-relaxed">31. "You don't eat meals, you have feeding frenzies."</p>
-            <p className="text-gray-800 leading-relaxed">32. "Your stomach has its own GPS that only points to restaurants."</p>
-            <p className="text-gray-800 leading-relaxed">33. "You're like a human garbage disposal, but with better taste."</p>
-            <p className="text-gray-800 leading-relaxed">34. "You could eat a horse and still ask what's for dessert."</p>
-            <p className="text-gray-800 leading-relaxed">35. "Your favorite exercise is running to the fridge."</p>
+            <p className="text-gray-800 leading-relaxed">31. &quot;You don&apos;t eat meals, you have feeding frenzies.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">32. &quot;Your stomach has its own GPS that only points to restaurants.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">33. &quot;You&apos;re like a human garbage disposal, but with better taste.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">34. &quot;You could eat a horse and still ask what&apos;s for dessert.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">35. &quot;Your favorite exercise is running to the fridge.&quot;</p>
           </div>
 
           <h3>For the Social Media Obsessed Friend</h3>
           <div className="space-y-4 mb-8">
-            <p className="text-gray-800 leading-relaxed">36. "You don't live life, you curate it for Instagram."</p>
-            <p className="text-gray-800 leading-relaxed">37. "If it's not on social media, did it really happen to you?"</p>
-            <p className="text-gray-800 leading-relaxed">38. "You take more selfies than a teenage influencer."</p>
-            <p className="text-gray-800 leading-relaxed">39. "Your phone battery dies faster than your attention span."</p>
-            <p className="text-gray-800 leading-relaxed">40. "You hashtag your conversations in real life."</p>
+            <p className="text-gray-800 leading-relaxed">36. &quot;You don&apos;t live life, you curate it for Instagram.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">37. &quot;If it&apos;s not on social media, did it really happen to you?&quot;</p>
+            <p className="text-gray-800 leading-relaxed">38. &quot;You take more selfies than a teenage influencer.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">39. &quot;Your phone battery dies faster than your attention span.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">40. &quot;You hashtag your conversations in real life.&quot;</p>
           </div>
 
           <h3>Universal Friend Roasts</h3>
           <div className="space-y-4 mb-8">
-            <p className="text-gray-800 leading-relaxed">41. "You're like a software update - nobody wants you, but we're stuck with you."</p>
-            <p className="text-gray-800 leading-relaxed">42. "If you were a spice, you'd be flour."</p>
-            <p className="text-gray-800 leading-relaxed">43. "You're the reason they put instructions on shampoo bottles."</p>
-            <p className="text-gray-800 leading-relaxed">44. "You're not stupid, you just have bad luck when thinking."</p>
-            <p className="text-gray-800 leading-relaxed">45. "You're like a cloud - when you disappear, it's a beautiful day."</p>
-            <p className="text-gray-800 leading-relaxed">46. "You're the human equivalent of a participation trophy."</p>
-            <p className="text-gray-800 leading-relaxed">47. "If ignorance is bliss, you must be the happiest person alive."</p>
-            <p className="text-gray-800 leading-relaxed">48. "You're like a broken pencil - pointless."</p>
-            <p className="text-gray-800 leading-relaxed">49. "You're the reason aliens won't visit Earth."</p>
-            <p className="text-gray-800 leading-relaxed">50. "You're like elevator music - annoying and forgettable."</p>
+            <p className="text-gray-800 leading-relaxed">41. &quot;You&apos;re like a software update - nobody wants you, but we&apos;re stuck with you.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">42. &quot;If you were a spice, you&apos;d be flour.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">43. &quot;You&apos;re the reason they put instructions on shampoo bottles.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">44. &quot;You&apos;re not stupid, you just have bad luck when thinking.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">45. &quot;You&apos;re like a cloud - when you disappear, it&apos;s a beautiful day.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">46. &quot;You&apos;re the human equivalent of a participation trophy.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">47. &quot;If ignorance is bliss, you must be the happiest person alive.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">48. &quot;You&apos;re like a broken pencil - pointless.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">49. &quot;You&apos;re the reason aliens won&apos;t visit Earth.&quot;</p>
+            <p className="text-gray-800 leading-relaxed">50. &quot;You&apos;re like elevator music - annoying and forgettable.&quot;</p>
           </div>
         </article>
 

@@ -78,7 +78,7 @@ export default function DevastatingRoastsPage() {
         {/* Article Content */}
         <article className="prose prose-lg max-w-none">
           <p className="lead text-gray-700 mb-6">
-            Sometimes a simple roast isn't enough. When you need to deliver a burn that cuts deep and leaves a lasting impression, 
+            Sometimes a simple roast isn&apos;t enough. When you need to deliver a burn that cuts deep and leaves a lasting impression, 
             you need roasts that truly hurt. These devastating burns are designed to hit where it hurts most - but remember, 
             with great power comes great responsibility.
           </p>
@@ -88,7 +88,7 @@ export default function DevastatingRoastsPage() {
               <div className="ml-3">
                 <p className="text-sm text-yellow-700">
                   <strong>Warning:</strong> These roasts are particularly harsh and should only be used in appropriate contexts 
-                  where everyone understands it's part of the game. Always consider your relationship with the person and the setting.
+                  where everyone understands it&apos;s part of the game. Always consider your relationship with the person and the setting.
                 </p>
               </div>
             </div>
@@ -96,8 +96,8 @@ export default function DevastatingRoastsPage() {
 
           <h2 className="text-2xl font-bold text-gray-900 mb-6">The Psychology of Devastating Roasts</h2>
           <p className="text-gray-700 mb-6">
-            What separates a playful jab from a devastating burn? It's all about targeting the deepest 
-            insecurities and hitting where it hurts most. These roasts don't just attack surface-level 
+            What separates a playful jab from a devastating burn? It&apos;s all about targeting the deepest
+            insecurities and hitting where it hurts most. These roasts don&apos;t just attack surface-level 
             traits - they go for the jugular of self-esteem.
           </p>
 
@@ -105,71 +105,71 @@ export default function DevastatingRoastsPage() {
           
           <h3 className="text-xl font-bold text-gray-900 mb-4">Existential Destroyers</h3>
           <div className="space-y-3 mb-6">
-            <p className="text-gray-800">1. You're so fat that an origami crane has less folds than you.</p>
+            <p className="text-gray-800">1. You&apos;re so fat that an origami crane has less folds than you.</p>
             <p className="text-gray-800">2. You look like something that came out of a slow cooker.</p>
             <p className="text-gray-800">3. You have so many gaps in your teeth it looks like your tongue is in jail.</p>
             <p className="text-gray-800">4. I bet I could remove 90 percent of your good looks with a moist towelette.</p>
-            <p className="text-gray-800">5. If your brain was dynamite, there wouldn't be enough to blow your hat off.</p>
-            <p className="text-gray-800">6. You're the reason aliens won't visit Earth.</p>
-            <p className="text-gray-800">7. You're like a broken pencil - completely pointless.</p>
-            <p className="text-gray-800">8. If you were any more inbred, you'd be a sandwich.</p>
-            <p className="text-gray-800">9. You're the human equivalent of a participation trophy.</p>
-            <p className="text-gray-800">10. You're like a cloud - when you disappear, it's a beautiful day.</p>
+            <p className="text-gray-800">5. If your brain was dynamite, there wouldn&apos;t be enough to blow your hat off.</p>
+            <p className="text-gray-800">6. You&apos;re the reason aliens won&apos;t visit Earth.</p>
+            <p className="text-gray-800">7. You&apos;re like a broken pencil - completely pointless.</p>
+            <p className="text-gray-800">8. If you were any more inbred, you&apos;d be a sandwich.</p>
+            <p className="text-gray-800">9. You&apos;re the human equivalent of a participation trophy.</p>
+            <p className="text-gray-800">10. You&apos;re like a cloud - when you disappear, it&apos;s a beautiful day.</p>
           </div>
 
           <h3 className="text-xl font-bold text-gray-900 mb-4">Family Line Annihilators</h3>
           <div className="space-y-3 mb-6">
-            <p className="text-gray-800">11. Don't be ashamed of who you are. That's a job for your parents.</p>
-            <p className="text-gray-800">12. You're so ugly, when you were born, the doctor said "Aww what a treasure" and your mom said "Yeah, let's bury it."</p>
-            <p className="text-gray-800">13. If I had a face like yours, I'd sue my parents.</p>
-            <p className="text-gray-800">14. You're so ugly, when you were born, your mother saw the afterbirth and said "Twins!"</p>
-            <p className="text-gray-800">15. Do you think your parents realize that they're living proof that two wrongs don't make a right?</p>
-            <p className="text-gray-800">16. Your family tree must be a cactus because you're all a bunch of pricks.</p>
-            <p className="text-gray-800">17. I'd say you're adopted, but no one would choose you.</p>
+            <p className="text-gray-800">11. Don&apos;t be ashamed of who you are. That&apos;s a job for your parents.</p>
+            <p className="text-gray-800">12. You&apos;re so ugly, when you were born, the doctor said &quot;Aww what a treasure&quot; and your mom said &quot;Yeah, let&apos;s bury it.&quot;</p>
+            <p className="text-gray-800">13. If I had a face like yours, I&apos;d sue my parents.</p>
+            <p className="text-gray-800">14. You&apos;re so ugly, when you were born, your mother saw the afterbirth and said &quot;Twins!&quot;</p>
+            <p className="text-gray-800">15. Do you think your parents realize that they&apos;re living proof that two wrongs don&apos;t make a right?</p>
+            <p className="text-gray-800">16. Your family tree must be a cactus because you&apos;re all a bunch of pricks.</p>
+            <p className="text-gray-800">17. I&apos;d say you&apos;re adopted, but no one would choose you.</p>
             <p className="text-gray-800">18. Your gene pool could use a little chlorine.</p>
-            <p className="text-gray-800">19. You're proof that even God makes mistakes.</p>
+            <p className="text-gray-800">19. You&apos;re proof that even God makes mistakes.</p>
             <p className="text-gray-800">20. Your parents must be so proud... that you moved out.</p>
           </div>
 
           <h3 className="text-xl font-bold text-gray-900 mb-4">Self-Worth Obliterators</h3>
           <div className="space-y-3 mb-6">
-            <p className="text-gray-800">21. You're the reason they invented the block button.</p>
-            <p className="text-gray-800">22. I'd call you a tool, but that would imply you're useful.</p>
-            <p className="text-gray-800">23. You're like a participation trophy - nobody wants you, but here you are.</p>
-            <p className="text-gray-800">24. If you were any more disappointing, you'd be a canceled TV show.</p>
-            <p className="text-gray-800">25. You're the human equivalent of a software bug that never gets fixed.</p>
-            <p className="text-gray-800">26. I've seen more personality in a cardboard cutout.</p>
-            <p className="text-gray-800">27. You're like a Monday morning - nobody's happy to see you.</p>
+            <p className="text-gray-800">21. You&apos;re the reason they invented the block button.</p>
+            <p className="text-gray-800">22. I&apos;d call you a tool, but that would imply you&apos;re useful.</p>
+            <p className="text-gray-800">23. You&apos;re like a participation trophy - nobody wants you, but here you are.</p>
+            <p className="text-gray-800">24. If you were any more disappointing, you&apos;d be a canceled TV show.</p>
+            <p className="text-gray-800">25. You&apos;re the human equivalent of a software bug that never gets fixed.</p>
+            <p className="text-gray-800">26. I&apos;ve seen more personality in a cardboard cutout.</p>
+            <p className="text-gray-800">27. You&apos;re like a Monday morning - nobody&apos;s happy to see you.</p>
             <p className="text-gray-800">28. If mediocrity was a person, it would still be more interesting than you.</p>
-            <p className="text-gray-800">29. You're the reason people believe in natural selection.</p>
-            <p className="text-gray-800">30. You're like a broken clock - wrong most of the time, and annoying all the time.</p>
+            <p className="text-gray-800">29. You&apos;re the reason people believe in natural selection.</p>
+            <p className="text-gray-800">30. You&apos;re like a broken clock - wrong most of the time, and annoying all the time.</p>
           </div>
 
           <h3 className="text-xl font-bold text-gray-900 mb-4">Intelligence Assassins</h3>
           <div className="space-y-3 mb-6">
-            <p className="text-gray-800">31. You're so dense, light bends around you.</p>
-            <p className="text-gray-800">32. If stupidity was a superpower, you'd be invincible.</p>
+            <p className="text-gray-800">31. You&apos;re so dense, light bends around you.</p>
+            <p className="text-gray-800">32. If stupidity was a superpower, you&apos;d be invincible.</p>
             <p className="text-gray-800">33. You make a rock look like a genius.</p>
-            <p className="text-gray-800">34. Your IQ is so low, it's practically a golf score.</p>
-            <p className="text-gray-800">35. You're proof that evolution can go in reverse.</p>
-            <p className="text-gray-800">36. If brains were gasoline, you wouldn't have enough to power a flea's motorcycle.</p>
-            <p className="text-gray-800">37. You're so stupid, you probably think this roast is about cooking.</p>
+            <p className="text-gray-800">34. Your IQ is so low, it&apos;s practically a golf score.</p>
+            <p className="text-gray-800">35. You&apos;re proof that evolution can go in reverse.</p>
+            <p className="text-gray-800">36. If brains were gasoline, you wouldn&apos;t have enough to power a flea&apos;s motorcycle.</p>
+            <p className="text-gray-800">37. You&apos;re so stupid, you probably think this roast is about cooking.</p>
             <p className="text-gray-800">38. Your thought process is like a broken GPS - always lost and going nowhere.</p>
-            <p className="text-gray-800">39. You're the reason warning labels exist on everything.</p>
+            <p className="text-gray-800">39. You&apos;re the reason warning labels exist on everything.</p>
             <p className="text-gray-800">40. If ignorance is bliss, you must be in a permanent state of euphoria.</p>
           </div>
 
           <h3 className="text-xl font-bold text-gray-900 mb-4">Physical Devastators</h3>
           <div className="space-y-3 mb-6">
-            <p className="text-gray-800">41. You're so ugly, when you look in the mirror, your reflection ducks.</p>
-            <p className="text-gray-800">42. If looks could kill, you'd be a weapon of mass destruction... for yourself.</p>
-            <p className="text-gray-800">43. You're so hideous, even your selfies come out blurry.</p>
+            <p className="text-gray-800">41. You&apos;re so ugly, when you look in the mirror, your reflection ducks.</p>
+            <p className="text-gray-800">42. If looks could kill, you&apos;d be a weapon of mass destruction... for yourself.</p>
+            <p className="text-gray-800">43. You&apos;re so hideous, even your selfies come out blurry.</p>
             <p className="text-gray-800">44. Your face is so forgettable, even your own mother needs name tags.</p>
-            <p className="text-gray-800">45. You're like a before photo that never gets an after.</p>
-            <p className="text-gray-800">46. If ugly was a crime, you'd get life without parole.</p>
-            <p className="text-gray-800">47. You're so unattractive, blind dates refuse to meet you.</p>
-            <p className="text-gray-800">48. Your appearance is like a car accident - horrifying, but people can't look away.</p>
-            <p className="text-gray-800">49. You're proof that makeup has its limitations.</p>
+            <p className="text-gray-800">45. You&apos;re like a before photo that never gets an after.</p>
+            <p className="text-gray-800">46. If ugly was a crime, you&apos;d get life without parole.</p>
+            <p className="text-gray-800">47. You&apos;re so unattractive, blind dates refuse to meet you.</p>
+            <p className="text-gray-800">48. Your appearance is like a car accident - horrifying, but people can&apos;t look away.</p>
+            <p className="text-gray-800">49. You&apos;re proof that makeup has its limitations.</p>
             <p className="text-gray-800">50. If beauty is in the eye of the beholder, then you need to find some very nearsighted people.</p>
           </div>
 
@@ -192,7 +192,7 @@ export default function DevastatingRoastsPage() {
 
           <h2 className="text-2xl font-bold text-gray-900 mb-6">The Ethics of Devastating Roasts</h2>
           <p className="text-gray-700 mb-6">
-            While these roasts are designed to be devastating, it's crucial to understand when and how to use them responsibly.
+            While these roasts are designed to be devastating, it&apos;s crucial to understand when and how to use them responsibly.
             The most effective roasters know that timing, context, and relationship dynamics are everything.
           </p>
 
@@ -201,8 +201,8 @@ export default function DevastatingRoastsPage() {
             <li>Against someone who is already vulnerable or going through a difficult time</li>
             <li>In professional or formal settings</li>
             <li>When the person has asked you to stop</li>
-            <li>Against someone who clearly can't handle this level of humor</li>
-            <li>When you're genuinely angry - roasts should come from a place of fun, not malice</li>
+            <li>Against someone who clearly can&apos;t handle this level of humor</li>
+            <li>When you&apos;re genuinely angry - roasts should come from a place of fun, not malice</li>
           </ul>
 
           <h3 className="text-xl font-bold text-gray-900 mb-4">The Golden Rules of Devastating Roasts</h3>
@@ -210,7 +210,7 @@ export default function DevastatingRoastsPage() {
             <li><strong>Know your audience:</strong> Make sure the person can handle this level of roasting</li>
             <li><strong>Be prepared for retaliation:</strong> If you dish it out, be ready to take it</li>
             <li><strong>Keep it playful:</strong> The goal is laughter, not genuine hurt</li>
-            <li><strong>Know when to stop:</strong> Read the room and the person's reactions</li>
+            <li><strong>Know when to stop:</strong> Read the room and the person&apos;s reactions</li>
             <li><strong>Apologize if needed:</strong> If you go too far, be ready to make amends</li>
           </ol>
 
