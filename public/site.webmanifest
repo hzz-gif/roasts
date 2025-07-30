@@ -1,0 +1,16 @@
+{
+    "name": "Roasts.pro",
+    "short_name": "Roasts",
+    "description": "The Ultimate Comedy & Roast Content Hub",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#FF6B35",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/"
+}
