@@ -106,16 +106,16 @@ export default function AboutPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
-                href="/articles"
+                href="/125-good-roasts-ultimate-burn"
                 className="bg-amber-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-amber-700 transition-colors"
               >
                 Start Reading
               </Link>
               <Link
-                href="/categories"
+                href="/165-good-roasts-burn-so-bad"
                 className="border border-amber-600 text-amber-600 px-6 py-3 rounded-lg font-medium hover:bg-amber-50 transition-colors"
               >
-                Explore Categories
+                Browse Roasts
               </Link>
             </div>
           </div>

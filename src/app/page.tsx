@@ -1,9 +1,5 @@
 import Link from 'next/link';
 import { Metadata } from 'next';
-import { articles, categories } from '@/data/articles';
-import ArticleCard from '@/components/ArticleCard';
-import CategoryCard from '@/components/CategoryCard';
-import Button from '@/components/ui/Button';
 
 export const metadata: Metadata = {
   title: 'Roasts.pro - The Ultimate Comedy & Roast Content Hub',
@@ -21,8 +17,6 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
-  const featuredArticles = articles.slice(0, 3);
-
   return (
     <div className="min-h-screen">
       {/* Hero Section */}

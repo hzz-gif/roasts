@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { articles } from '@/data/articles';
 
 export const metadata: Metadata = {
   title: '125 Good Roasts To Serve the Ultimate Burn - Roasts.pro',
@@ -18,11 +17,6 @@ export const metadata: Metadata = {
 };
 
 export default function GoodRoastsPage() {
-  const article = articles.find(a => a.slug === '125-good-roasts-ultimate-burn');
-  
-  if (!article) {
-    return <div>Article not found</div>;
-  }
 
   return (
     <div className="min-h-screen bg-white">
@@ -34,22 +28,22 @@ export default function GoodRoastsPage() {
               <Link href="/" className="hover:text-gray-700">Home</Link>
             </li>
             <li>/</li>
-            <li className="text-gray-900">{article.title}</li>
+            <li className="text-gray-900">125 Good Roasts To Serve the Ultimate Burn</li>
           </ol>
         </nav>
 
         {/* Article Header */}
         <header className="mb-8">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">{article.title}</h1>
+          <h1 className="text-4xl font-bold text-gray-900 mb-4">125 Good Roasts To Serve the Ultimate Burn</h1>
           <p className="text-lg text-gray-600 mb-4">
-            {article.excerpt}
+            Discover the ultimate collection of 125 devastating roasts that will leave your targets speechless. From clever wordplay to savage burns, this comprehensive guide covers every type of roast you need.
           </p>
           <div className="flex items-center text-sm text-gray-500 space-x-4">
-            <span>By {article.author}</span>
+            <span>By Roast Master</span>
             <span>•</span>
-            <span>{article.publishedAt}</span>
+            <span>2025-07-30</span>
             <span>•</span>
-            <span>{article.readingTime} min read</span>
+            <span>5 min read</span>
           </div>
         </header>
 

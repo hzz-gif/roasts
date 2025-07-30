@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { articles } from '@/data/articles';
 
 export const metadata: Metadata = {
   title: 'Roasts That Hurt: The Most Devastating Burns Ever - Roasts.pro',
@@ -18,11 +17,6 @@ export const metadata: Metadata = {
 };
 
 export default function DevastatingRoastsPage() {
-  const article = articles.find(a => a.slug === 'roasts-that-hurt-devastating-burns');
-  
-  if (!article) {
-    return <div>Article not found</div>;
-  }
 
   return (
     <div className="min-h-screen bg-white">
@@ -34,22 +28,22 @@ export default function DevastatingRoastsPage() {
               <Link href="/" className="hover:text-gray-700">Home</Link>
             </li>
             <li>/</li>
-            <li className="text-gray-900">{article.title}</li>
+            <li className="text-gray-900">Roasts That Hurt: The Most Devastating Burns Ever</li>
           </ol>
         </nav>
 
         {/* Article Header */}
         <header className="mb-8">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">{article.title}</h1>
+          <h1 className="text-4xl font-bold text-gray-900 mb-4">Roasts That Hurt: The Most Devastating Burns Ever</h1>
           <p className="text-lg text-gray-600 mb-4">
-            {article.excerpt}
+            Explore the darkest corners of roasting with these emotionally devastating burns. Warning: these roasts are not for the faint of heart and should be used with extreme caution.
           </p>
           <div className="flex items-center text-sm text-gray-500 space-x-4">
-            <span>By {article.author}</span>
+            <span>By David Graham</span>
             <span>•</span>
-            <span>{article.publishedAt}</span>
+            <span>2025-07-28</span>
             <span>•</span>
-            <span>{article.readingTime} min read</span>
+            <span>4 min read</span>
           </div>
         </header>
 
